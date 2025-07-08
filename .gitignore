@@ -1,0 +1,4 @@
+# Ignorer les fichiers temporaires
+*.pyc
+*.data
+__pycache__/
